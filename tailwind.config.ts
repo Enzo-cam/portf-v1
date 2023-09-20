@@ -15,6 +15,13 @@ const config: Config = {
       },
       fontFamily: {
         'sans': ['Inter', 'sans-serif'],
+      },
+      colors: {
+        marron: '#403d39',
+        negro: '#0a0908',
+        azulMar: '#22333b',
+        celeste: '#748cab',
+        orange: '#eb5e28',
       }
     },
   },
