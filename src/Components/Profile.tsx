@@ -5,8 +5,8 @@ const Profile = () => {
     <div className="mt-10 md:mt-12">
       <div className="">
         <h1 className="text-3xl font-bold text-negro ">
-          Hola, soy Enzo Cámera desde{" "}
-          <span className="text-marron">Argentina</span>
+          Hola, soy Enzo Cámera desde
+          <span className="text-marron"> Argentina</span>
         </h1>
       </div>
       <p className="text-md my-6">
